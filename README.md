@@ -1,0 +1,2 @@
+# Proper
+Proyek Tugas Akhir
